@@ -6,4 +6,3 @@
 - Diseñado por: https://www.frontendmentor.io/
 - Maquetado por: Aj&Designs
 - Ing. Mecatronico y diseñador Web
-- Cel. 9613195624
