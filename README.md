@@ -4,4 +4,4 @@
 
 - Tema: Social-Proof-Section
 - Diseñado por: https://www.frontendmentor.io/
-- Maquetado por: Alan jafet
+- Maquetado por: AJ&DESIGNS
